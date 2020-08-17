@@ -1,0 +1,16 @@
+* {box-sizing: border-box}
+
+body{
+  background-color: #f6f4e6;
+}
+body h1 {
+  text-align: center;
+}
+ body h2{
+   text-align: center;
+ }
+
+body h5 {
+  text-align: center;
+  color: red;
+}
